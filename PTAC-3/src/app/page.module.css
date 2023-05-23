@@ -1,0 +1,89 @@
+.section form{
+  border:1px solid black; 
+  padding: 10px 40px;
+  display: inline-block; 
+}
+
+.section input{
+  margin-bottom:30px;
+  padding: 5px;
+  padding-right: 120px;
+  font-size: 18px;
+}
+
+.section button{
+  background:black ; 
+  color:aliceblue; 
+  padding:8px 19px; 
+  margin-top: 10px;
+  border-radius: 3px;
+  margin: 10px;
+}
+
+.divs button{
+  background:black ; 
+  color:aliceblue; 
+  padding:8px 19px; 
+  margin-top: 10px;
+  border-radius: 3px;
+  margin: 10px;
+}
+
+.section h1{
+  color: cadetblue;
+  margin: 20px 0px 30px;
+}
+.article h1{
+  color: cadetblue;
+  margin: 20px 0px 30px;
+  font-size: 30px;
+}
+
+.article a{
+  text-decoration: none;  
+   color: black;
+   border: 1px solid black;
+   padding: 10px 20px;
+}
+
+.article{
+  margin: 0px 50px;
+}
+.section a{   
+   text-decoration: none;
+   color: black;
+   border: 1px solid black;
+   padding: 5px 20px;
+}
+
+.section{
+  padding:20px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin: 20px;
+}
+
+.divs{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+.divs div{
+  border: 1px solid black;
+  margin:10px;
+  padding: 10px;
+}
+
+#div{
+  padding: 15px;
+  border: 1px solid black;
+}
+
+.section, .divs button:hover{
+  cursor: pointer;
+}
+

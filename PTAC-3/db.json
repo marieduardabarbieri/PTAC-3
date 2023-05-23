@@ -1,0 +1,22 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "fulano1",
+      "num_incricao": "1",
+      "curso": "informatica"
+    },
+    {
+      "nome": "maria",
+      "curso": "eduarda",
+      "num_inscricao": "2",
+      "id": 5
+    },
+    {
+      "nome": "mariana linda",
+      "curso": "informatica",
+      "num_inscricao": "16",
+      "id": 10
+    }
+  ]
+}
